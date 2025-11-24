@@ -6,7 +6,7 @@
 
 ---
 
-## 🧩 Contenido del programa
+##  Contenido del programa
 
 Este programa cumple con los requisitos solicitados para el Programa 3:
 
@@ -28,7 +28,7 @@ Este programa cumple con los requisitos solicitados para el Programa 3:
 
 ---
 
-## 🖥️ Ejecución del programa en Colab
+##  Ejecución del programa en Colab
 
 Para ejecutar el programa en Google Colab:
 
